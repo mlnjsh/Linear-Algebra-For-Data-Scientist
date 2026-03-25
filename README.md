@@ -27,3 +27,34 @@ To run the notebooks locally:
 2. Install necessary dependencies (e.g., `numpy`, `matplotlib`, `scipy`, `scikit-learn`).
 
 Enjoy learning the mathematical foundations of Data Science!
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/3b1b">
+        <img src="https://github.com/3b1b.png" width="80px;" alt="3Blue1Brown"/><br />
+        <sub><b>3Blue1Brown</b></sub>
+      </a><br />
+      <sub>Essence of Linear Algebra animations</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kenjihiranabe">
+        <img src="https://github.com/kenjihiranabe.png" width="80px;" alt="Kenji Hiranabe"/><br />
+        <sub><b>Kenji Hiranabe</b></sub>
+      </a><br />
+      <sub>Visual linear algebra educator</sub>
+    </td>
+  </tr>
+</table>
